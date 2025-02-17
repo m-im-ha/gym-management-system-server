@@ -26,7 +26,6 @@
   * password: admin123
 
 ### Diagram
-  **Diagram**
   [Link of the diagram](https://drive.google.com/file/d/1DQ5mMXe5sHVG5_JIBXUenVKK5B_MYtnN/view?usp=sharing)
 
 ### API Routes
