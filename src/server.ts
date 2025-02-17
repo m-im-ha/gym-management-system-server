@@ -1,4 +1,4 @@
-import express from "express";
+import express, { Request, Response } from "express";
 import dotenv from "dotenv";
 import connectDB from "./config/db";
 
@@ -10,7 +10,7 @@ app.use(express.json());
 // connect to mongoDB
 connectDB();
 
-app.get("/",(req,res)=>{
+app.get("/",(req : Request,res: Response)=>{
     res.send("GYM management system is running!!");
 });
 
