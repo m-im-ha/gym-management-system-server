@@ -20,6 +20,9 @@
 * Booking management system
 * Schedule tracking for trainers
 
+* **Diagram**
+  *[Link of the diagram](https://drive.google.com/file/d/1DQ5mMXe5sHVG5_JIBXUenVKK5B_MYtnN/view?usp=sharing)
+
 * **Admin Access**: 
   * email: admin@gym.com,
   * password: admin123
