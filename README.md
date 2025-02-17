@@ -20,6 +20,10 @@
 * Booking management system
 * Schedule tracking for trainers
 
+* **Admin Access**: 
+  * email: admin@gym.com,
+  * password: admin123
+
 ### API Routes
 
 #### Authentication
