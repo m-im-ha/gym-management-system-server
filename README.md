@@ -12,6 +12,9 @@
 * JWT Authentication 
 * Node.js Runtime
 
+### Link
+  [LINK](https://gym-management-system-rose.vercel.app/)
+
 ### Key Features
 
 * Role-based access control (Admin, Trainer, Trainee)
@@ -31,11 +34,11 @@
 ### API Routes
 
 #### Authentication
-* POST /api/auth/register
-* POST /api/auth/login
+* POST https://gym-management-system-rose.vercel.app/api/auth/register
+* POST https://gym-management-system-rose.vercel.app/api/auth/login
 
 #### Class Management
-* POST /api/classes (Admin: Create schedule)
-* POST /api/classes/:scheduleId/book (Trainee: Book class)
-* GET /api/classes/trainer-schedules (Trainer: View schedules)
-* DELETE /api/classes/:scheduleId/cancel-booking (Trainee: Cancel booking)
+* POST https://gym-management-system-rose.vercel.app/api/classes (Admin: Create schedule)
+* POST https://gym-management-system-rose.vercel.app/api/classes/:scheduleId/book (Trainee: Book class)
+* GET https://gym-management-system-rose.vercel.app/api/classes/trainer-schedules (Trainer: View schedules)
+* DELETE https://gym-management-system-rose.vercel.app/api/classes/:scheduleId/cancel-booking (Trainee: Cancel booking)
